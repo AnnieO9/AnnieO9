@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnnieO9
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in blockchain technologies
 - 🌱 I’m currently learning how BTC works
 - 💞️ I’m looking to collaborate on crypto projects
-- 📫 How to reach me ...
+- 📫 How to reach me: Gmail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
